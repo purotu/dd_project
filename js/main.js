@@ -6,3 +6,7 @@ function init(){
 function exit(){
     console.log('Bye bye!');
 }
+
+function anotherFunction(){
+    console.log('Whaaat!');
+}
